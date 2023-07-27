@@ -5,14 +5,14 @@
 - Classify the specific hacking tools, such as web shell attacks.
 
 ## Combinaton of Keywords
-    {hacking}, {tool}, {security}, {awesome}, {domain keyword} 
+    {hacking}, {tool}, {security}, {awesome}, {domain keyword}, {黑客}, {工具}, {神器}
 ## All in One
 - Awesome-Hacking: https://github.com/Hack-with-Github/Awesome-Hacking `star: 67.3k`
 - Pentests: https://github.com/enaqx/awesome-pentest  `star: 18.8k`
 - 2023最全黑客工具合集: https://blog.csdn.net/weixin_70257503/article/details/129370547
 
 ## Individual
-- Recons: https://github.com/nahberry/awesome-recon-tools
+- Recons: https://github.com/nahberry/awesome-recon-tools, https://github.com/six2dez/reconftw `star: 4.5k`
 - Inteligences: [Open Sources Intelligence (OSINT)](https://github.com/enaqx/awesome-pentest#open-sources-intelligence-osint)
 - Scannings: https://github.com/paralax/awesome-internet-scanning
 - Web-Hackings: https://github.com/infoslack/awesome-web-hacking  `star: 6.9k`
