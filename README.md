@@ -9,6 +9,7 @@
 ## All in One
 - Awesome-Hacking: https://github.com/Hack-with-Github/Awesome-Hacking `star: 67.3k`
 - Pentests: https://github.com/enaqx/awesome-pentest  `star: 18.8k`
+- 2023最全黑客工具合集: https://blog.csdn.net/weixin_70257503/article/details/129370547
 
 ## Individual
 - Recons: https://github.com/nahberry/awesome-recon-tools
