@@ -1,7 +1,8 @@
 # Awesome-hacking-tools
-- 整理駭客攻擊中常用的工具
-- 找尋新興 hacker or china hacker 常用 tool
-- 特定攻擊行為會使用的tool，例如 web shell attack，會使用 web shell framework 
+## Purpose
+- The collection of hacking tools. 
+- The survey of new Chinese hacking tool.
+- Classify the specific hacking tools, such as web shell attacks.
 
 ## Combinaton of Keywords
     {hacking}, {tool}, {security}, {awesome}, {domain keyword} 
