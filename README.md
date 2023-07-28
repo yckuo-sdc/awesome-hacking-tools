@@ -13,12 +13,14 @@
 
 ## Individual
 - Recons: https://github.com/nahberry/awesome-recon-tools, https://github.com/six2dez/reconftw `star: 4.5k`
-- Inteligences: [Open Sources Intelligence (OSINT)](https://github.com/enaqx/awesome-pentest#open-sources-intelligence-osint)
+- Intelligences: [Open Sources Intelligence (OSINT)](https://github.com/enaqx/awesome-pentest#open-sources-intelligence-osint)
 - Scannings: https://github.com/paralax/awesome-internet-scanning
 - Web-Hackings: https://github.com/infoslack/awesome-web-hacking  `star: 6.9k`
+- Web-Path-Discoveries: https://github.com/maurosoria/dirsearch `star: 10k` 
+- Webshells: https://github.com/tennc/webshell  `star: 9.2k`
 - Malware-Analysis: https://github.com/rshipp/awesome-malware-analysis `star: 10k`
 - Tunnelings : https://github.com/anderspitman/awesome-tunneling   `star: 9.6k`
-- Webshells: https://github.com/tennc/webshell   `star: 9.2k`
-- SQL-Injections: https://github.com/payloadbox/sql-injection-payload-list `star:3.5k`
+- SQL-Injections: https://github.com/payloadbox/sql-injection-payload-list `star: 3.5k`
 - Mobile-Platforms: https://github.com/vaib25vicky/awesome-mobile-security  `star: 2.5k`
-- IoTs: https://github.com/fkie-cad/awesome-embedded-and-iot-security `star4k` 
+- IoTs: https://github.com/fkie-cad/awesome-embedded-and-iot-security `star: 4k` 
+- Social Enginerrings: https://github.com/giuliacassara/awesome-social-engineering `star: 2.1k`
