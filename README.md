@@ -1,6 +1,6 @@
 # Awesome-hacking-tools
 ## Purpose
-- The collection of hacking tools. 
+- The collection of practical hacking tools. 
 - The survey of new Chinese hacking tool.
 - Classify the specific hacking tools, such as web shell attacks.
 
