@@ -16,6 +16,7 @@
 - Intelligences: [Open Sources Intelligence (OSINT)](https://github.com/enaqx/awesome-pentest#open-sources-intelligence-osint)
 - Subdomain-Enumerations: https://github.com/screetsec/Sudomy `star: 1.7k`
 - Scannings: https://github.com/paralax/awesome-internet-scanning
+- Passwod-Crackings: https://github.com/n0kovo/awesome-password-cracking
 - Web-Hackings: https://github.com/infoslack/awesome-web-hacking  `star: 6.9k`
 - Web-Path-Discoveries: https://github.com/maurosoria/dirsearch `star: 10k` 
 - Webshells: https://github.com/tennc/webshell  `star: 9.2k`
