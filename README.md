@@ -14,7 +14,7 @@
 ## Individual
 - Recons: https://github.com/nahberry/awesome-recon-tools, https://github.com/six2dez/reconftw `star: 4.5k`
 - Intelligences: [Open Sources Intelligence (OSINT)](https://osintframework.com/)
-- Subdomain-Enumerations: https://github.com/screetsec/Sudomy `star: 1.7k`
+- Subdomain-Eumerations: https://github.com/screetsec/Sudomy `star: 1.7k`
 - Scannings: https://github.com/paralax/awesome-internet-scanning
 - Passwod-Crackings: https://github.com/n0kovo/awesome-password-cracking
 - Web-Hackings: https://github.com/infoslack/awesome-web-hacking  `star: 6.9k`
